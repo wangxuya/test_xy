@@ -2,7 +2,7 @@ function FindProxyForURL(url, host) {
 
      var proxyList = {
 '10conditionsoflove.com':1,
-'dnvod.tv':1
+'dnvod.tv':1,
 'tensorflow.org':1,
 'bbs.nju.edu.cn':1,
 '122.gov.cn':1,
