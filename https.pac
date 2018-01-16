@@ -4,6 +4,7 @@ function FindProxyForURL(url, host) {
 '10conditionsoflove.com':1,
 'dnvod.tv':1,
 'tensorflow.org':1,
+'kaggle.com':1,
 'bbs.nju.edu.cn':1,
 '122.gov.cn':1,
 'arxiv.org':1,
